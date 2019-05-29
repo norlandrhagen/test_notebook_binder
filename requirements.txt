@@ -1,2 +1,2 @@
-pip install opedia==0.2.56
-pip install colorama
+opedia==0.2.56
+colorama
